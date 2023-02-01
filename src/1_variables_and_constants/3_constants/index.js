@@ -4,7 +4,7 @@
  * Set oranges price so total will be 42
  */
 
-const orangesPrice = 0
+const orangesPrice = 30
 const applesPrice = 12
 
 const total = applesPrice + orangesPrice

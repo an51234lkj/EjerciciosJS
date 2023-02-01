@@ -18,6 +18,11 @@
  */
 
 // Write your code here.
+let myNumber = 2.5;
+let myString = "Hola mundo";
+let turnedOn = true;
+let noValue;
+let unknownValue =null;
 
 /**
  * Don't to change next lines.

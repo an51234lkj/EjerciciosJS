@@ -4,6 +4,12 @@ let sum = 0;
 let average = 0;
 
 // Put your code here
+for (let item of numbers) {
+    counter++;
+    sum += item;    
+}
+
+average = sum/counter;
 
 console.log(average)
 

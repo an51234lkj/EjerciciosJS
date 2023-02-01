@@ -19,7 +19,9 @@ let VATRatio
 let VATValue
 
 // Write your code here.
-
+VATRatio = VATPercentage / 100;
+VATValue = productPrize * VATRatio;
+let total = productPrize + VATValue;
 /**
  * Don't to change next lines.
  */
